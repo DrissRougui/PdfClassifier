@@ -1,0 +1,44 @@
+[
+        {
+            "categoryName":"Donnes administrative",
+            "x":50,
+            "y":180,
+            "page": 0
+         },
+        {
+            "categoryName":"Element contractuels",
+            "x":50,
+            "y":350,
+            "page":0
+
+        },
+        {
+            "categoryName": "Element d appreciation de l entreprise",
+            "x": 50,
+            "y": 50,
+            "page": 1
+
+        },
+        {
+            "categoryName": "Assurance des batiments",
+            "x": 50,
+            "y": 50,
+            "page": 3
+
+        },
+        {
+            "categoryName": "Garantie souhaitees",
+            "x": 50,
+            "y": 50,
+            "page": 13
+
+        },
+        {
+            "categoryName": "Antécédents",
+            "x": 50,
+            "y": 100,
+            "page": 15
+
+        }
+
+    ]
